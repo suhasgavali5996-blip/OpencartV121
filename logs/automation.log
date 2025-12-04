@@ -1,0 +1,272 @@
+2025-11-26 19:46:16 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\AppData\Local\Temp\testng-eclipse-1523852016\testng-customsuite.xml"
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 22 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\AppData\Local\Temp\testng-eclipse-1523852016\testng-customsuite.xml
+
+2025-11-26 19:46:17 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-11-26 19:46:32 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-26 19:46:32 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-26 19:46:33 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-26 19:46:33 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-26 19:46:38 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-26 19:46:39 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-26 19:46:41 INFO  testBase.TC001_RegistrationTest - Execution Complted 
+2025-11-26 19:46:41 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@359ff4d9: 104 ms
+2025-11-26 19:46:41 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7ae9a33a: 4 ms
+2025-11-26 19:46:41 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@71dfcf21: 14 ms
+2025-11-26 19:46:41 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1fcf9739: 9 ms
+2025-11-26 19:46:41 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2bef09c0: 8 ms
+2025-11-26 19:46:41 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@62ce72ff: 1 ms
+2025-11-26 19:57:13 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\AppData\Local\Temp\testng-eclipse-1118462949\testng-customsuite.xml"
+2025-11-26 19:57:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 63 ms.
+2025-11-26 19:57:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-11-26 19:57:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:57:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:57:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:57:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 28 ms.
+2025-11-26 19:57:17 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 111 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\AppData\Local\Temp\testng-eclipse-1118462949\testng-customsuite.xml
+
+2025-11-26 19:57:18 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-11-26 19:57:43 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-26 19:57:44 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-26 19:57:46 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-26 19:57:46 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-26 19:57:51 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-26 19:57:56 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-26 19:58:01 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6482eef: 267 ms
+2025-11-26 19:58:01 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4d7aaca2: 34 ms
+2025-11-26 19:58:01 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7a55f148: 19 ms
+2025-11-26 19:58:01 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3cd206b5: 21 ms
+2025-11-26 19:58:01 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2264e43c: 17 ms
+2025-11-26 19:58:01 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3bec2275: 0 ms
+2025-11-26 20:07:35 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\AppData\Local\Temp\testng-eclipse--1487557367\testng-customsuite.xml"
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\AppData\Local\Temp\testng-eclipse--1487557367\testng-customsuite.xml
+
+2025-11-26 20:07:36 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-11-26 20:07:49 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-26 20:07:49 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-26 20:07:49 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-26 20:07:49 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-26 20:07:54 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-26 20:07:56 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-26 20:07:57 ERROR testBase.TC001_RegistrationTest - Test Failed:
+2025-11-26 20:07:57 DEBUG testBase.TC001_RegistrationTest - Debug logs
+2025-11-26 20:07:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@40298285: 79 ms
+2025-11-26 20:07:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@51351f28: 20 ms
+2025-11-26 20:07:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@40f8f5a8: 14 ms
+2025-11-26 20:07:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@62628e78: 13 ms
+2025-11-26 20:07:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@a137d7a: 12 ms
+2025-11-26 20:07:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6ac0b715: 0 ms
+2025-11-27 15:23:08 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\master.xml"
+2025-11-27 15:23:08 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\master.xml
+
+2025-11-27 15:38:41 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\master.xml"
+2025-11-27 15:38:41 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\master.xml
+
+2025-11-27 15:40:52 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\master.xml"
+2025-11-27 15:40:52 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\master.xml
+
+2025-11-27 15:41:08 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-27 15:41:09 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-27 15:41:10 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-27 15:41:10 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-27 15:41:15 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-27 15:41:17 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-27 15:41:20 ERROR testBase.TC001_RegistrationTest - Test Failed:
+2025-11-27 15:41:20 DEBUG testBase.TC001_RegistrationTest - Debug logs
+2025-11-27 15:42:11 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\master.xml"
+2025-11-27 15:42:12 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\master.xml
+
+2025-11-27 15:42:31 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-27 15:42:31 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-27 15:42:32 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-27 15:42:32 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-27 15:42:37 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-27 15:42:39 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-27 15:42:41 INFO  testBase.TC001_RegistrationTest - Execution Complted 
+2025-11-27 15:48:23 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\CrossBrowser.xml"
+2025-11-27 15:48:24 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\CrossBrowser.xml
+
+2025-11-27 15:48:37 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-27 15:48:37 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-27 15:48:42 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-27 15:48:42 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-27 15:48:47 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-27 15:48:48 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-27 15:48:51 INFO  testBase.TC001_RegistrationTest - Execution Complted 
+2025-11-27 15:49:22 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-27 15:49:22 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-27 15:49:23 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-27 15:49:23 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-27 15:49:28 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-27 15:49:29 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-27 15:49:31 INFO  testBase.TC001_RegistrationTest - Execution Complted 
+2025-11-27 15:49:49 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-27 15:49:50 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-27 15:49:50 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-27 15:49:50 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-27 15:49:55 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-27 15:49:57 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-27 15:49:59 INFO  testBase.TC001_RegistrationTest - Execution Complted 
+2025-11-27 15:51:52 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\CrossBrowser.xml"
+2025-11-27 15:51:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\CrossBrowser.xml
+
+2025-11-27 15:52:20 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-27 15:52:20 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-27 15:52:21 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-27 15:52:21 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-27 15:52:22 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-27 15:52:22 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-27 15:52:23 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-27 15:52:23 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-27 15:52:27 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-27 15:52:28 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-27 15:52:32 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-27 15:52:35 INFO  testBase.TC001_RegistrationTest - Execution Complted 
+2025-11-27 15:52:36 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-27 15:52:39 INFO  testBase.TC001_RegistrationTest - Execution Complted 
+2025-11-27 15:52:48 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-27 15:52:49 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-27 15:52:49 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-27 15:52:49 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-27 15:52:54 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-27 15:52:56 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-27 15:52:58 INFO  testBase.TC001_RegistrationTest - Execution Complted 
+2025-11-27 15:53:43 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\CrossBrowser.xml"
+2025-11-27 15:53:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\CrossBrowser.xml
+
+2025-11-27 15:54:06 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-27 15:54:16 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-27 15:54:16 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-27 15:54:18 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-27 15:54:18 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-27 15:54:21 INFO  testBase.TC001_RegistrationTest - *** Execution Started******
+2025-11-27 15:54:22 INFO  testBase.TC001_RegistrationTest - Clicked on MyAccount
+2025-11-27 15:54:23 INFO  testBase.TC001_RegistrationTest - Clicked on Register
+2025-11-27 15:54:23 INFO  testBase.TC001_RegistrationTest - Navigated on Register page
+2025-11-27 15:54:23 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-27 15:54:24 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-27 15:54:25 INFO  testBase.TC001_RegistrationTest - Execution Complted 
+2025-11-27 15:54:28 INFO  testBase.TC001_RegistrationTest - Providing costomer Details
+2025-11-27 15:54:30 INFO  testBase.TC001_RegistrationTest - Entered all costomer Details
+2025-11-27 15:54:33 INFO  testBase.TC001_RegistrationTest - Execution Complted 
+2025-11-27 16:15:45 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\master.xml"
+2025-11-27 16:15:46 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\master.xml
+
+2025-11-27 16:16:17 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\master.xml"
+2025-11-27 16:16:18 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\master.xml
+
+2025-11-27 16:22:38 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\master.xml"
+2025-11-27 16:22:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\master.xml
+
+2025-11-27 16:23:18 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\master.xml"
+2025-11-27 16:23:19 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\master.xml
+
+2025-11-27 16:24:57 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\master.xml"
+2025-11-27 16:24:58 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\master.xml
+
+2025-11-27 16:26:10 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\master.xml"
+2025-11-27 16:26:11 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\master.xml
+
+2025-11-27 16:28:48 DEBUG org.testng.TestNG - suiteXmlPath: "E:\Seleniumwebdriver\OpencartV121\master.xml"
+2025-11-27 16:28:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Seleniumwebdriver\OpencartV121\master.xml
+

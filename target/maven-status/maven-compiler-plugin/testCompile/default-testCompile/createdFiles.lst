@@ -1,0 +1,6 @@
+pageObjects\RegisterPage.class
+pageObjects\BasePage.class
+utilities\ExcelsUtils.class
+pageObjects\Homepage.class
+testBase\BaseClass.class
+testBase\TC001_RegistrationTest.class

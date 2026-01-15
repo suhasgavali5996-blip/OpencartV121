@@ -5,26 +5,13 @@
     <parameter name="os" value="linux"/>
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="testBase.TC001_RegistrationTest">
+      <class name="testBase.ETestClass">
         <methods>
           <include name="teardown"/>
-          <include name="verifyRegisterAccount"/>
-          <include name="Setup"/>
+          <include name="verifylogin"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- testBase.TC001_RegistrationTest -->
+      </class> <!-- testBase.ETestClass -->
     </classes>
   </test> <!-- Test(failed) -->
-  <test thread-count="5" name="Test1(failed)">
-    <parameter name="os" value="linux"/>
-    <parameter name="browser" value="chrome"/>
-    <classes>
-      <class name="testBase.TC001_RegistrationTest">
-        <methods>
-          <include name="teardown"/>
-          <include name="verifyRegisterAccount"/>
-          <include name="Setup"/>
-        </methods>
-      </class> <!-- testBase.TC001_RegistrationTest -->
-    </classes>
-  </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [Suite] -->

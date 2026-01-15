@@ -1,0 +1,9 @@
+
+Index:
+http://localhost:3000/
+
+Static files:
+Serving ./public directory if it existsS
+
+Endpoints:
+http://localhost:3000/students

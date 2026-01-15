@@ -1,0 +1,2 @@
+Introduction 
+Good Afternoon my self Suhas Gavali.I am a Software Test Engineer with hands-on experience in both Manual and Automation Testing. I specialise in analysing requirements, designing effective test scenarios, creating detailed test cases, and performing thorough functional, regression, and end-to-end testing. I also automate test cases using Selenium, Java, TestNG, and other tools to improve test efficiency and product quality.

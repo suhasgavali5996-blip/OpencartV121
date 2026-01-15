@@ -1,0 +1,355 @@
+{
+  "students": [
+    {
+      "rollNo": "STU007",
+      "name": "Ajinkya g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ],
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "rollNo": "STU003",
+      "name": "Rahul Verma",
+      "age": 19,
+      "gender": "Male",
+      "course": "Mechanical Engineering",
+      "year": 1,
+      "email": "rahul.verma@gmail.com",
+      "mobile": "9988776655"
+    },
+    {
+      "id": "5",
+      "rollNo": "STU005",
+      "name": "Rohit Singh",
+      "age": 21,
+      "gender": "Male",
+      "course": "Civil Engineering",
+      "year": 3,
+      "email": "rohit.singh@gmail.com",
+      "mobile": "9012345678"
+    },
+    {
+      "id": "e908",
+      "rollNo": "STU006",
+      "name": "Suhas G",
+      "age": 32,
+      "gender": "Male",
+      "course": "BE",
+      "year": 4,
+      "email": "suhas.G@gmail.com",
+      "mobile": "8855662542"
+    },
+    {
+      "id": "9779",
+      "rollNo": "STU006",
+      "name": "Suhas G",
+      "age": 32,
+      "gender": "Male",
+      "course": "BE",
+      "year": 4,
+      "email": "suhas.G@gmail.com",
+      "mobile": "8855662542"
+    },
+    {
+      "id": "d7f5",
+      "rollNo": "STU006",
+      "name": "Suhas G",
+      "age": 32,
+      "gender": "Male",
+      "course": "BE",
+      "year": 4,
+      "email": "suhas.G@gmail.com",
+      "mobile": "8855662542"
+    },
+    {
+      "id": "c47c",
+      "rollNo": "STU006",
+      "name": "Suhas G",
+      "age": 32,
+      "gender": "Male",
+      "course": "BE",
+      "year": 4,
+      "email": "suhas.G@gmail.com",
+      "mobile": "8855662542"
+    },
+    {
+      "id": "4281",
+      "rollNo": "STU006",
+      "name": "Suhas G",
+      "age": 32,
+      "gender": "Male",
+      "course": "BE",
+      "year": 4,
+      "email": "suhas.G@gmail.com",
+      "mobile": "8855662542"
+    },
+    {
+      "id": "8653",
+      "rollNo": "STU006",
+      "name": "Suhas G",
+      "age": 32,
+      "gender": "Male",
+      "course": "BE",
+      "year": 4,
+      "email": "suhas.G@gmail.com",
+      "mobile": "8855662542"
+    },
+    {
+      "id": "e2b3",
+      "rollNo": "STU006",
+      "name": "Suhas G",
+      "age": 32,
+      "gender": "Male",
+      "course": "BE",
+      "year": 4,
+      "email": "suhas.G@gmail.com",
+      "mobile": "8855662542"
+    },
+    {
+      "id": "f644",
+      "rollNo": "STU007",
+      "name": "Ankit g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "2c38",
+      "rollNo": "STU007",
+      "name": "Ankit g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "e5e9",
+      "rollNo": "STU007",
+      "name": "Ankit g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "2218",
+      "rollNo": "STU007",
+      "name": "Ankit g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "9c8c",
+      "rollNo": "STU007",
+      "name": "Ankit g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "2dff",
+      "rollNo": "STU007",
+      "name": "Ankit g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "5431",
+      "rollNo": "STU007",
+      "name": "Ankit g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "f2d9",
+      "rollNo": "STU007",
+      "name": "Ankit g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "0ea9",
+      "rollNo": "STU007",
+      "name": "Ankit g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "0e50",
+      "rollNo": "STU007",
+      "name": "Ankit g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "a0d7",
+      "rollNo": "STU007",
+      "name": "Ankit g",
+      "age": 31,
+      "gender": "Male",
+      "year": 4,
+      "email": "A.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "8335",
+      "rollNo": "STU008",
+      "name": "Tushar g",
+      "age": 30,
+      "gender": "Male",
+      "year": 4,
+      "email": "T.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "c5fa",
+      "rollNo": "STU008",
+      "name": "Tushar g",
+      "age": 30,
+      "gender": "Male",
+      "year": 4,
+      "email": "T.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "Diploma"
+      ]
+    },
+    {
+      "id": "f2f0",
+      "rollNo": "STU008",
+      "name": "Tushar g",
+      "age": 31,
+      "gender": "Male",
+      "year": 5,
+      "email": "T.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "BSC"
+      ]
+    },
+    {
+      "id": "aa54",
+      "rollNo": "STU008",
+      "name": "Tushar g",
+      "age": 31,
+      "gender": "Male",
+      "year": 5,
+      "email": "T.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "BSC"
+      ]
+    },
+    {
+      "id": "24a7",
+      "rollNo": "STU008",
+      "name": "Tushar g",
+      "age": 31,
+      "gender": "Male",
+      "year": 5,
+      "email": "T.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "BSC"
+      ]
+    },
+    {
+      "id": "9efc",
+      "rollNo": "STU008",
+      "name": "Tushar g",
+      "age": 31,
+      "gender": "Male",
+      "year": 5,
+      "email": "T.G@gmail.com",
+      "mobile": "8855662542",
+      "course": [
+        "BE",
+        "BSC"
+      ]
+    }
+  ]
+}

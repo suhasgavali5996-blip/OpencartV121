@@ -1,0 +1,98 @@
+What is Software Testing?
+• Software Testing is the process of finding defects to ensure the application meets requirements.
+
+What is SDLC and STLC?
+
+What is the difference between Verification and Validation?
+• Verification - Ensures the product is being built correctly (process-oriented).
+• Validation: Ensures the right product is built (product-oriented).
+
+What are Functional and Non-functional testing?
+• Functional Testing: Validates the business logic and features.
+• Non-Functional Testing: Checks performance, usability, and reliability.
+
+
+What is Regression Testing?
+
+Regression Testing ensures that new changes (code updates, bug fixes, enhancements) have not broken existing
+features.
+• It’s repeated after every change in the application.
+• Often automated for efficiency.
+
+What is Sanity vs Smoke testing?
+• Smoke Testing: Broad, shallow testing after a new build. Ensures major functions work.
+• Sanity Testing: Narrow, deep testing after a minor fix to check specific functionality.
+
+What is Severity and Priority? Explain with examples.
+Severity: Impact of a defect on the system.
+Example: A crash in the payment gateway is Critical Severity.
+• Priority: Order in which the defect should be fixed.
+Example: A spelling mistake on the home page may have low severity but high priority if it impacts branding
+
+What are Test Case and Test Scenario?
+
+What are the components of a Test Case?
+
+
+
+If login button is not working, how will you test?
+
+How will you test an e-commerce checkout page?
+
+How will you report a defect?
+When I find a defect, I first reproduce it to confirm. Then I collect evidence like screenshots or logs and check requirements to ensure it’s a valid bug. Next, I log it in Jira with a clear title, detailed steps to reproduce, expected vs actual results, severity/priority, and environment details. I attach all supporting documents. If it’s a critical issue, I immediately inform the developer or lead. Finally, I track the bug until it is fixed and re-tested.”
+How do you write test cases for a mobile app?
+
+
+
+------------------------------------------------------------
+What are locators in Selenium?
+
+Difference between XPath and CSS?
+
+What is Implicit vs Explicit Wait?
+
+What are WebDriver methods used for clicking, typing, navigating, etc.?
+
+How do you handle alerts/popups in Selenium?
+
+How do you handle a dropdown?
+
+What is Page Object Model (POM)?
+
+What is TestNG? What are annotations?
+
+What is the difference between @BeforeMethod and @BeforeClass?
+
+What are Assertions in TestNG?
+
+What is Selenium Grid?
+
+How do you handle synchronization issues?
+
+What is the difference between findElement and findElements?
+
+How do you perform parallel execution?
+
+How do you capture screenshots on failure?
+------------------------------------------------------------
+What is API testing?
+
+What is the difference between PUT and POST?
+
+What is status code 200, 404, 500, 201?
+
+How do you validate JSON response?
+
+How do you write tests in Postman?
+
+What is Authentication vs Authorization?
+-----------------------------------------------------------------
+Write a query to fetch all employees.
+
+Write a query to find duplicate records.
+
+What is inner join, left join?
+
+What is primary key and foreign key?
+--------------------------------------------------------------
